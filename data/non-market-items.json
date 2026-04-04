@@ -1,0 +1,212 @@
+[
+  {
+    "item_id": 1024,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/00001024",
+    "grade_type": 0,
+    "price": -1,
+    "price_components": [{ "item_id": 5205, "quantity": 1 }],
+    "name": "Some Farmer's Sack"
+  },
+  {
+    "item_id": 1025,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/00001025",
+    "grade_type": 0,
+    "price": -1,
+    "price_components": [
+      { "item_id": 4204, "quantity": 0.1667 },
+      { "item_id": 4401, "quantity": 0.1667 },
+      { "item_id": 4402, "quantity": 0.1667 },
+      { "item_id": 4403, "quantity": 0.1667 },
+      { "item_id": 4404, "quantity": 0.1667 },
+      { "item_id": 4405, "quantity": 0.1667 }
+    ],
+    "name": "Some Miner's Sack"
+  },
+  {
+    "item_id": 1026,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/00001026",
+    "grade_type": 0,
+    "price": -1,
+    "price_components": [{ "item_id": 5960, "quantity": 1 }],
+    "name": "Some Archaeologist's Sack"
+  },
+  {
+    "item_id": 1027,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/00001027",
+    "grade_type": 0,
+    "price": -1,
+    "price_components": [
+      { "item_id": 4476, "quantity": 0.2 },
+      { "item_id": 4477, "quantity": 0.2 },
+      { "item_id": 6504, "quantity": 0.2 },
+      { "item_id": 6505, "quantity": 0.2 },
+      { "item_id": 6506, "quantity": 0.2 }
+    ],
+    "name": "Some Fisherman's Sack"
+  },
+  {
+    "item_id": 8012,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008012",
+    "grade_type": 2,
+    "price": 0,
+    "name": "Blueprint: Chiro's Cannon"
+  },
+  {
+    "item_id": 8013,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008013",
+    "grade_type": 2,
+    "price": 0,
+    "name": "Blueprint: Chiro's Sail"
+  },
+  {
+    "item_id": 8014,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008014",
+    "grade_type": 2,
+    "price": 0,
+    "name": "Blueprint: Chiro's Figurehead"
+  },
+  {
+    "item_id": 8015,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008015",
+    "grade_type": 2,
+    "price": 0,
+    "name": "Blueprint: Chiro's Black Plating"
+  },
+  {
+    "item_id": 8022,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008022",
+    "grade_type": 2,
+    "price": -1,
+    "name": "Starlight Powder"
+  },
+  {
+    "item_id": 8027,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008027",
+    "grade_type": 2,
+    "price": 0,
+    "name": "Blueprint: Byukgye's Enhanced Cannon"
+  },
+  {
+    "item_id": 8028,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008028",
+    "grade_type": 2,
+    "price": 0,
+    "name": "Blueprint: Byukgye's Enhanced Sail"
+  },
+  {
+    "item_id": 8029,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008029",
+    "grade_type": 2,
+    "price": 0,
+    "name": "Blueprint: Byukgye's Enhanced Figurehead"
+  },
+  {
+    "item_id": 8030,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008030",
+    "grade_type": 2,
+    "price": 0,
+    "name": "Blueprint: Byukgye's Enhanced Plating"
+  },
+  {
+    "item_id": 8933,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008933",
+    "grade_type": 2,
+    "price": 20000,
+    "name": "Fiery Black Ore"
+  },
+  {
+    "item_id": 9071,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00009071",
+    "grade_type": 0,
+    "price": 17300,
+    "name": "Translucent Ice Shard"
+  },
+  {
+    "item_id": 42418,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/03_quest_item/00042418",
+    "grade_type": 2,
+    "price": 3000000,
+    "name": "Bluish Sulfur"
+  },
+  {
+    "item_id": 44406,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/04_dropitem/00044406",
+    "grade_type": 0,
+    "price": 64,
+    "name": "Shattered Star Fragment"
+  },
+  {
+    "item_id": 65267,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/04_dropitem/00065267",
+    "grade_type": 3,
+    "price": -1,
+    "price_components": [{ "item_id": 65266, "quantity": 0.002 }],
+    "name": "Embers of Hongik"
+  },
+  {
+    "item_id": 752023,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/00752023",
+    "grade_type": 3,
+    "price": 51000,
+    "name": "Mass of Pure Magic"
+  },
+  {
+    "item_id": 820035,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/000820035",
+    "grade_type": 3,
+    "price": 50000,
+    "name": "Crystal of Harmony"
+  },
+  {
+    "item_id": 820036,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/000820033_1",
+    "grade_type": 3,
+    "price": 142000000,
+    "name": "Forest Crystal"
+  },
+  {
+    "item_id": 820037,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008422",
+    "grade_type": 3,
+    "price": 50000,
+    "name": "Crystal of Darkness"
+  },
+  {
+    "item_id": 820038,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008423",
+    "grade_type": 3,
+    "price": 50000,
+    "name": "Crystal of Bitterness"
+  },
+  {
+    "item_id": 820039,
+    "enhancement_level": 0,
+    "icon_image": "new_icon/03_etc/07_productmaterial/00008426",
+    "grade_type": 3,
+    "price": 50000,
+    "name": "Crystal of Decimation"
+  }
+]
