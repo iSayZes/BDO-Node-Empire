@@ -1,0 +1,2245 @@
+{
+  "data": [
+    {
+      "item_id": 4001,
+      "enhancement_level": 0,
+      "id": 4001,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004001",
+      "grade_type": 0,
+      "price": 2420,
+      "name": "Iron Ore"
+    },
+    {
+      "item_id": 4002,
+      "enhancement_level": 0,
+      "id": 4002,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004002",
+      "grade_type": 0,
+      "price": 1840,
+      "name": "Lead Ore"
+    },
+    {
+      "item_id": 4003,
+      "enhancement_level": 0,
+      "id": 4003,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004003",
+      "grade_type": 0,
+      "price": 2290,
+      "name": "Copper Ore"
+    },
+    {
+      "item_id": 4004,
+      "enhancement_level": 0,
+      "id": 4004,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004004",
+      "grade_type": 0,
+      "price": 5050,
+      "name": "Tin Ore"
+    },
+    {
+      "item_id": 4005,
+      "enhancement_level": 0,
+      "id": 4005,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004005",
+      "grade_type": 0,
+      "price": 6750,
+      "name": "Zinc Ore"
+    },
+    {
+      "item_id": 4007,
+      "enhancement_level": 0,
+      "id": 4007,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004007",
+      "grade_type": 0,
+      "price": 3290,
+      "name": "Coal"
+    },
+    {
+      "item_id": 4008,
+      "enhancement_level": 0,
+      "id": 4008,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004008",
+      "grade_type": 0,
+      "price": 8650,
+      "name": "Vanadium Ore"
+    },
+    {
+      "item_id": 4009,
+      "enhancement_level": 0,
+      "id": 4009,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004009",
+      "grade_type": 0,
+      "price": 9150,
+      "name": "Titanium Ore"
+    },
+    {
+      "item_id": 4010,
+      "enhancement_level": 0,
+      "id": 4010,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004010",
+      "grade_type": 0,
+      "price": 835,
+      "name": "Sulfur"
+    },
+    {
+      "item_id": 4011,
+      "enhancement_level": 0,
+      "id": 4011,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004011",
+      "grade_type": 0,
+      "price": 7450,
+      "name": "Noc Ore"
+    },
+    {
+      "item_id": 4013,
+      "enhancement_level": 0,
+      "id": 4013,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004013",
+      "grade_type": 0,
+      "price": 7450,
+      "name": "Nickel Ore"
+    },
+    {
+      "item_id": 4015,
+      "enhancement_level": 0,
+      "id": 4015,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004015",
+      "grade_type": 0,
+      "price": 550,
+      "name": "Quartz"
+    },
+    {
+      "item_id": 4057,
+      "enhancement_level": 0,
+      "id": 4057,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004057",
+      "grade_type": 0,
+      "price": 7300,
+      "name": "Melted Copper Shard"
+    },
+    {
+      "item_id": 4202,
+      "enhancement_level": 0,
+      "id": 4202,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004202",
+      "grade_type": 0,
+      "price": 11300,
+      "name": "Gold Ore"
+    },
+    {
+      "item_id": 4203,
+      "enhancement_level": 0,
+      "id": 4203,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004203",
+      "grade_type": 0,
+      "price": 41900,
+      "name": "Platinum Ore"
+    },
+    {
+      "item_id": 4204,
+      "enhancement_level": 0,
+      "id": 4204,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004204",
+      "grade_type": 0,
+      "price": 12500,
+      "name": "Rough Opal"
+    },
+    {
+      "item_id": 4206,
+      "enhancement_level": 0,
+      "id": 4206,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004206",
+      "grade_type": 0,
+      "price": 59000,
+      "name": "Mythril"
+    },
+    {
+      "item_id": 4207,
+      "enhancement_level": 0,
+      "id": 4207,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004207",
+      "grade_type": 0,
+      "price": 4320,
+      "name": "Rough Obsidian Ore"
+    },
+    {
+      "item_id": 4401,
+      "enhancement_level": 0,
+      "id": 4401,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004401",
+      "grade_type": 0,
+      "price": 3640,
+      "name": "Rough Ruby"
+    },
+    {
+      "item_id": 4402,
+      "enhancement_level": 0,
+      "id": 4402,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004402",
+      "grade_type": 0,
+      "price": 3830,
+      "name": "Rough Sapphire"
+    },
+    {
+      "item_id": 4403,
+      "enhancement_level": 0,
+      "id": 4403,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004403",
+      "grade_type": 0,
+      "price": 4320,
+      "name": "Rough Topaz"
+    },
+    {
+      "item_id": 4404,
+      "enhancement_level": 0,
+      "id": 4404,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004404",
+      "grade_type": 0,
+      "price": 4320,
+      "name": "Rough Emerald"
+    },
+    {
+      "item_id": 4405,
+      "enhancement_level": 0,
+      "id": 4405,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004405",
+      "grade_type": 0,
+      "price": 4050,
+      "name": "Rough Diamond"
+    },
+    {
+      "item_id": 4406,
+      "enhancement_level": 0,
+      "id": 4406,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004406",
+      "grade_type": 0,
+      "price": 10000,
+      "name": "Rough Translucent Crystal"
+    },
+    {
+      "item_id": 4407,
+      "enhancement_level": 0,
+      "id": 4407,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004407",
+      "grade_type": 0,
+      "price": 10700,
+      "name": "Rough Mud Crystal"
+    },
+    {
+      "item_id": 4408,
+      "enhancement_level": 0,
+      "id": 4408,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004408",
+      "grade_type": 0,
+      "price": 10000,
+      "name": "Rough Red Crystal"
+    },
+    {
+      "item_id": 4409,
+      "enhancement_level": 0,
+      "id": 4409,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004409",
+      "grade_type": 0,
+      "price": 10300,
+      "name": "Rough Green Crystal"
+    },
+    {
+      "item_id": 4410,
+      "enhancement_level": 0,
+      "id": 4410,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004410",
+      "grade_type": 0,
+      "price": 10900,
+      "name": "Rough Black Crystal"
+    },
+    {
+      "item_id": 4411,
+      "enhancement_level": 0,
+      "id": 4411,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004411",
+      "grade_type": 0,
+      "price": 3680,
+      "name": "Rough Blue Crystal"
+    },
+    {
+      "item_id": 4412,
+      "enhancement_level": 0,
+      "id": 4412,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004412",
+      "grade_type": 0,
+      "price": 1390,
+      "name": "Rough Violet Crystal"
+    },
+    {
+      "item_id": 4413,
+      "enhancement_level": 0,
+      "id": 4413,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004413",
+      "grade_type": 0,
+      "price": 7450,
+      "name": "Rough Lapis Lazuli"
+    },
+    {
+      "item_id": 4414,
+      "enhancement_level": 0,
+      "id": 4414,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004414",
+      "grade_type": 0,
+      "price": 9750,
+      "name": "Rough Jade"
+    },
+    {
+      "item_id": 4476,
+      "enhancement_level": 0,
+      "id": 4476,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004476",
+      "grade_type": 0,
+      "price": 162000,
+      "name": "Red Coral"
+    },
+    {
+      "item_id": 4477,
+      "enhancement_level": 0,
+      "id": 4477,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004477",
+      "grade_type": 0,
+      "price": 125000,
+      "name": "Blue Coral"
+    },
+    {
+      "item_id": 4601,
+      "enhancement_level": 0,
+      "id": 4601,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004601",
+      "grade_type": 0,
+      "price": 2050,
+      "name": "Ash Timber"
+    },
+    {
+      "item_id": 4602,
+      "enhancement_level": 0,
+      "id": 4602,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004602",
+      "grade_type": 0,
+      "price": 3190,
+      "name": "Maple Timber"
+    },
+    {
+      "item_id": 4603,
+      "enhancement_level": 0,
+      "id": 4603,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004603",
+      "grade_type": 0,
+      "price": 2880,
+      "name": "Pine Timber"
+    },
+    {
+      "item_id": 4604,
+      "enhancement_level": 0,
+      "id": 4604,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004604",
+      "grade_type": 0,
+      "price": 2490,
+      "name": "Birch Timber"
+    },
+    {
+      "item_id": 4606,
+      "enhancement_level": 0,
+      "id": 4606,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004606",
+      "grade_type": 0,
+      "price": 4190,
+      "name": "Fir Timber"
+    },
+    {
+      "item_id": 4607,
+      "enhancement_level": 0,
+      "id": 4607,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004607",
+      "grade_type": 0,
+      "price": 4190,
+      "name": "Cedar Timber"
+    },
+    {
+      "item_id": 4608,
+      "enhancement_level": 0,
+      "id": 4608,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004608",
+      "grade_type": 0,
+      "price": 2930,
+      "name": "White Cedar Timber"
+    },
+    {
+      "item_id": 4609,
+      "enhancement_level": 0,
+      "id": 4609,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004609",
+      "grade_type": 0,
+      "price": 4190,
+      "name": "Acacia Timber"
+    },
+    {
+      "item_id": 4610,
+      "enhancement_level": 0,
+      "id": 4610,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004610",
+      "grade_type": 0,
+      "price": 2960,
+      "name": "Palm Timber"
+    },
+    {
+      "item_id": 4611,
+      "enhancement_level": 0,
+      "id": 4611,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004611",
+      "grade_type": 0,
+      "price": 3220,
+      "name": "Elder Tree Timber"
+    },
+    {
+      "item_id": 4612,
+      "enhancement_level": 0,
+      "id": 4612,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004612",
+      "grade_type": 0,
+      "price": 362,
+      "name": "Cactus Rind"
+    },
+    {
+      "item_id": 4614,
+      "enhancement_level": 0,
+      "id": 4614,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004614",
+      "grade_type": 0,
+      "price": 494,
+      "name": "Moss Tree Timber"
+    },
+    {
+      "item_id": 4615,
+      "enhancement_level": 0,
+      "id": 4615,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004615",
+      "grade_type": 0,
+      "price": 530,
+      "name": "Loopy Tree Timber"
+    },
+    {
+      "item_id": 4616,
+      "enhancement_level": 0,
+      "id": 4616,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004616",
+      "grade_type": 0,
+      "price": 1140,
+      "name": "Thuja Timber"
+    },
+    {
+      "item_id": 4619,
+      "enhancement_level": 0,
+      "id": 4619,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004619",
+      "grade_type": 0,
+      "price": 1630,
+      "name": "Thornwood Timber"
+    },
+    {
+      "item_id": 4621,
+      "enhancement_level": 0,
+      "id": 4621,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004621",
+      "grade_type": 0,
+      "price": 5600,
+      "name": "Snowfield Cedar Timber"
+    },
+    {
+      "item_id": 4624,
+      "enhancement_level": 0,
+      "id": 4624,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00821116",
+      "grade_type": 0,
+      "price": 5600,
+      "name": "Caphras Tree Timber"
+    },
+    {
+      "item_id": 4657,
+      "enhancement_level": 0,
+      "id": 4657,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004657",
+      "grade_type": 0,
+      "price": 6150,
+      "name": "Pine Plank"
+    },
+    {
+      "item_id": 4660,
+      "enhancement_level": 0,
+      "id": 4660,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004660",
+      "grade_type": 0,
+      "price": 10500,
+      "name": "Birch Plank"
+    },
+    {
+      "item_id": 4663,
+      "enhancement_level": 0,
+      "id": 4663,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004663",
+      "grade_type": 0,
+      "price": 15300,
+      "name": "Fir Plank"
+    },
+    {
+      "item_id": 4670,
+      "enhancement_level": 0,
+      "id": 4670,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004670",
+      "grade_type": 0,
+      "price": 1710,
+      "name": "Palm Plank"
+    },
+    {
+      "item_id": 4673,
+      "enhancement_level": 0,
+      "id": 4673,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004673",
+      "grade_type": 0,
+      "price": 1870,
+      "name": "Elder Tree Plank"
+    },
+    {
+      "item_id": 4683,
+      "enhancement_level": 0,
+      "id": 4683,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004683",
+      "grade_type": 0,
+      "price": 4170,
+      "name": "Cactus Thorn"
+    },
+    {
+      "item_id": 4694,
+      "enhancement_level": 0,
+      "id": 4694,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004694",
+      "grade_type": 0,
+      "price": 1580,
+      "name": "Moss Tree Plank"
+    },
+    {
+      "item_id": 4697,
+      "enhancement_level": 0,
+      "id": 4697,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004697",
+      "grade_type": 0,
+      "price": 1930,
+      "name": "Loopy Tree Plank"
+    },
+    {
+      "item_id": 4701,
+      "enhancement_level": 0,
+      "id": 4701,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004701",
+      "grade_type": 0,
+      "price": 2280,
+      "name": "Thuja Plank"
+    },
+    {
+      "item_id": 4801,
+      "enhancement_level": 0,
+      "id": 4801,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004801",
+      "grade_type": 0,
+      "price": 4330,
+      "name": "Powder of Darkness"
+    },
+    {
+      "item_id": 4802,
+      "enhancement_level": 0,
+      "id": 4802,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004802",
+      "grade_type": 0,
+      "price": 2020,
+      "name": "Powder of Flame"
+    },
+    {
+      "item_id": 4803,
+      "enhancement_level": 0,
+      "id": 4803,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004803",
+      "grade_type": 0,
+      "price": 1620,
+      "name": "Powder of Rifts"
+    },
+    {
+      "item_id": 4804,
+      "enhancement_level": 0,
+      "id": 4804,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004804",
+      "grade_type": 0,
+      "price": 5150,
+      "name": "Powder of Earth"
+    },
+    {
+      "item_id": 4805,
+      "enhancement_level": 0,
+      "id": 4805,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00004805",
+      "grade_type": 0,
+      "price": 5600,
+      "name": "Powder of Time"
+    },
+    {
+      "item_id": 5001,
+      "enhancement_level": 0,
+      "id": 5001,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005001",
+      "grade_type": 0,
+      "price": 19600,
+      "name": "Ash Sap"
+    },
+    {
+      "item_id": 5002,
+      "enhancement_level": 0,
+      "id": 5002,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005002",
+      "grade_type": 0,
+      "price": 12100,
+      "name": "Maple Sap"
+    },
+    {
+      "item_id": 5003,
+      "enhancement_level": 0,
+      "id": 5003,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005003",
+      "grade_type": 0,
+      "price": 11000,
+      "name": "Pine Sap"
+    },
+    {
+      "item_id": 5004,
+      "enhancement_level": 0,
+      "id": 5004,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005004",
+      "grade_type": 0,
+      "price": 10700,
+      "name": "Birch Sap"
+    },
+    {
+      "item_id": 5005,
+      "enhancement_level": 0,
+      "id": 5005,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005005",
+      "grade_type": 0,
+      "price": 4240,
+      "name": "Bloody Tree Knot"
+    },
+    {
+      "item_id": 5006,
+      "enhancement_level": 0,
+      "id": 5006,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005006",
+      "grade_type": 0,
+      "price": 3010,
+      "name": "Spirit's Leaf"
+    },
+    {
+      "item_id": 5007,
+      "enhancement_level": 0,
+      "id": 5007,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005007",
+      "grade_type": 0,
+      "price": 21000,
+      "name": "Monk's Branch"
+    },
+    {
+      "item_id": 5008,
+      "enhancement_level": 0,
+      "id": 5008,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005008",
+      "grade_type": 0,
+      "price": 1940,
+      "name": "Old Tree Bark"
+    },
+    {
+      "item_id": 5009,
+      "enhancement_level": 0,
+      "id": 5009,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005009",
+      "grade_type": 0,
+      "price": 3620,
+      "name": "Fir Sap"
+    },
+    {
+      "item_id": 5010,
+      "enhancement_level": 0,
+      "id": 5010,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005010",
+      "grade_type": 0,
+      "price": 19600,
+      "name": "Cedar Sap"
+    },
+    {
+      "item_id": 5011,
+      "enhancement_level": 0,
+      "id": 5011,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005011",
+      "grade_type": 0,
+      "price": 1750,
+      "name": "Red Tree Lump"
+    },
+    {
+      "item_id": 5012,
+      "enhancement_level": 0,
+      "id": 5012,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005012",
+      "grade_type": 0,
+      "price": 8400,
+      "name": "White Cedar Sap"
+    },
+    {
+      "item_id": 5013,
+      "enhancement_level": 0,
+      "id": 5013,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005013",
+      "grade_type": 0,
+      "price": 4920,
+      "name": "Acacia Sap"
+    },
+    {
+      "item_id": 5014,
+      "enhancement_level": 0,
+      "id": 5014,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005014",
+      "grade_type": 0,
+      "price": 4910,
+      "name": "Elder Tree Sap"
+    },
+    {
+      "item_id": 5015,
+      "enhancement_level": 0,
+      "id": 5015,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005015",
+      "grade_type": 0,
+      "price": 1110,
+      "name": "Palm Sap"
+    },
+    {
+      "item_id": 5016,
+      "enhancement_level": 0,
+      "id": 5016,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005016",
+      "grade_type": 0,
+      "price": 5500,
+      "name": "Cactus Sap"
+    },
+    {
+      "item_id": 5017,
+      "enhancement_level": 0,
+      "id": 5017,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005017",
+      "grade_type": 0,
+      "price": 1000,
+      "name": "Moss Tree Sap"
+    },
+    {
+      "item_id": 5018,
+      "enhancement_level": 0,
+      "id": 5018,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005018",
+      "grade_type": 0,
+      "price": 1580,
+      "name": "Loopy Tree Sap"
+    },
+    {
+      "item_id": 5020,
+      "enhancement_level": 0,
+      "id": 5020,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005020",
+      "grade_type": 0,
+      "price": 28000,
+      "name": "Thuja Sap"
+    },
+    {
+      "item_id": 5023,
+      "enhancement_level": 0,
+      "id": 5023,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005023",
+      "grade_type": 0,
+      "price": 19600,
+      "name": "Thornwood Sap"
+    },
+    {
+      "item_id": 5024,
+      "enhancement_level": 0,
+      "id": 5024,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005024",
+      "grade_type": 0,
+      "price": 32600,
+      "name": "Snowfield Cedar Sap"
+    },
+    {
+      "item_id": 5025,
+      "enhancement_level": 0,
+      "id": 5025,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005025",
+      "grade_type": 0,
+      "price": 14700,
+      "name": "Caphras Tree Sap"
+    },
+    {
+      "item_id": 5205,
+      "enhancement_level": 0,
+      "id": 5205,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005205",
+      "grade_type": 0,
+      "price": 186000,
+      "name": "Fruit of Nature"
+    },
+    {
+      "item_id": 5401,
+      "enhancement_level": 0,
+      "id": 5401,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005401",
+      "grade_type": 0,
+      "price": 387,
+      "name": "Sunrise Herb"
+    },
+    {
+      "item_id": 5402,
+      "enhancement_level": 0,
+      "id": 5402,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005402",
+      "grade_type": 0,
+      "price": 444,
+      "name": "Silver Azalea"
+    },
+    {
+      "item_id": 5404,
+      "enhancement_level": 0,
+      "id": 5404,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005404",
+      "grade_type": 0,
+      "price": 222,
+      "name": "Dry Mane Grass"
+    },
+    {
+      "item_id": 5405,
+      "enhancement_level": 0,
+      "id": 5405,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005405",
+      "grade_type": 0,
+      "price": 243,
+      "name": "Silk Honey Grass"
+    },
+    {
+      "item_id": 5407,
+      "enhancement_level": 0,
+      "id": 5407,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005407",
+      "grade_type": 0,
+      "price": 700,
+      "name": "Fortune Teller Mushroom"
+    },
+    {
+      "item_id": 5408,
+      "enhancement_level": 0,
+      "id": 5408,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005408",
+      "grade_type": 0,
+      "price": 775,
+      "name": "Arrow Mushroom"
+    },
+    {
+      "item_id": 5409,
+      "enhancement_level": 0,
+      "id": 5409,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005409",
+      "grade_type": 0,
+      "price": 735,
+      "name": "Dwarf Mushroom"
+    },
+    {
+      "item_id": 5410,
+      "enhancement_level": 0,
+      "id": 5410,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005410",
+      "grade_type": 0,
+      "price": 775,
+      "name": "Cloud Mushroom"
+    },
+    {
+      "item_id": 5411,
+      "enhancement_level": 0,
+      "id": 5411,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005411",
+      "grade_type": 0,
+      "price": 735,
+      "name": "Sky Mushroom"
+    },
+    {
+      "item_id": 5412,
+      "enhancement_level": 0,
+      "id": 5412,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005412",
+      "grade_type": 0,
+      "price": 735,
+      "name": "Tiger Mushroom"
+    },
+    {
+      "item_id": 5413,
+      "enhancement_level": 0,
+      "id": 5413,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005413",
+      "grade_type": 0,
+      "price": 700,
+      "name": "Emperor Mushroom"
+    },
+    {
+      "item_id": 5414,
+      "enhancement_level": 0,
+      "id": 5414,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005414",
+      "grade_type": 0,
+      "price": 775,
+      "name": "Ghost Mushroom"
+    },
+    {
+      "item_id": 5421,
+      "enhancement_level": 0,
+      "id": 5421,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005421",
+      "grade_type": 0,
+      "price": 995,
+      "name": "Pile of Sunrise Herbs"
+    },
+    {
+      "item_id": 5422,
+      "enhancement_level": 0,
+      "id": 5422,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005422",
+      "grade_type": 0,
+      "price": 700,
+      "name": "Bunch of Silver Azaleas"
+    },
+    {
+      "item_id": 5425,
+      "enhancement_level": 0,
+      "id": 5425,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005425",
+      "grade_type": 0,
+      "price": 610,
+      "name": "Bunch of Silk Honey Grass"
+    },
+    {
+      "item_id": 5426,
+      "enhancement_level": 0,
+      "id": 5426,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005426",
+      "grade_type": 0,
+      "price": 1190,
+      "name": "Big Fortune Teller Mushroom"
+    },
+    {
+      "item_id": 5427,
+      "enhancement_level": 0,
+      "id": 5427,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005427",
+      "grade_type": 0,
+      "price": 2090,
+      "name": "Big Arrow Mushroom"
+    },
+    {
+      "item_id": 5428,
+      "enhancement_level": 0,
+      "id": 5428,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005428",
+      "grade_type": 0,
+      "price": 2330,
+      "name": "Big Dwarf Mushroom"
+    },
+    {
+      "item_id": 5429,
+      "enhancement_level": 0,
+      "id": 5429,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005429",
+      "grade_type": 0,
+      "price": 1440,
+      "name": "Big Cloud Mushroom"
+    },
+    {
+      "item_id": 5430,
+      "enhancement_level": 0,
+      "id": 5430,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005430",
+      "grade_type": 0,
+      "price": 1310,
+      "name": "Big Sky Mushroom"
+    },
+    {
+      "item_id": 5431,
+      "enhancement_level": 0,
+      "id": 5431,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005431",
+      "grade_type": 0,
+      "price": 1750,
+      "name": "Big Tiger Mushroom"
+    },
+    {
+      "item_id": 5432,
+      "enhancement_level": 0,
+      "id": 5432,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005432",
+      "grade_type": 0,
+      "price": 2080,
+      "name": "Big Emperor Mushroom"
+    },
+    {
+      "item_id": 5433,
+      "enhancement_level": 0,
+      "id": 5433,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005433",
+      "grade_type": 0,
+      "price": 3680,
+      "name": "Big Ghost Mushroom"
+    },
+    {
+      "item_id": 5451,
+      "enhancement_level": 0,
+      "id": 5451,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005408",
+      "grade_type": 1,
+      "price": 3870,
+      "name": "High-quality Arrow Mushroom"
+    },
+    {
+      "item_id": 5471,
+      "enhancement_level": 0,
+      "id": 5471,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005408",
+      "grade_type": 2,
+      "price": 37300,
+      "name": "Special Arrow Mushroom"
+    },
+    {
+      "item_id": 5516,
+      "enhancement_level": 0,
+      "id": 5516,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005516",
+      "grade_type": 0,
+      "price": 965,
+      "name": "Blue Umbrella Mushroom"
+    },
+    {
+      "item_id": 5517,
+      "enhancement_level": 0,
+      "id": 5517,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005517",
+      "grade_type": 0,
+      "price": 28000,
+      "name": "Volcanic Umbrella Mushroom"
+    },
+    {
+      "item_id": 5518,
+      "enhancement_level": 0,
+      "id": 5518,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005518",
+      "grade_type": 0,
+      "price": 459,
+      "name": "Pink Trumpet Mushroom"
+    },
+    {
+      "item_id": 5519,
+      "enhancement_level": 0,
+      "id": 5519,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005519",
+      "grade_type": 0,
+      "price": 470,
+      "name": "White Umbrella Mushroom"
+    },
+    {
+      "item_id": 5520,
+      "enhancement_level": 0,
+      "id": 5520,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005520",
+      "grade_type": 0,
+      "price": 489,
+      "name": "Green Pendulous Mushroom"
+    },
+    {
+      "item_id": 5521,
+      "enhancement_level": 0,
+      "id": 5521,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005521",
+      "grade_type": 0,
+      "price": 470,
+      "name": "White Flower Mushroom"
+    },
+    {
+      "item_id": 5522,
+      "enhancement_level": 0,
+      "id": 5522,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005522",
+      "grade_type": 0,
+      "price": 2640,
+      "name": "Vedelona"
+    },
+    {
+      "item_id": 5532,
+      "enhancement_level": 0,
+      "id": 5532,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005532",
+      "grade_type": 0,
+      "price": 4950,
+      "name": "Bracken"
+    },
+    {
+      "item_id": 5544,
+      "enhancement_level": 0,
+      "id": 5544,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005544_1",
+      "grade_type": 0,
+      "price": 3770,
+      "name": "Chanterelle"
+    },
+    {
+      "item_id": 5546,
+      "enhancement_level": 0,
+      "id": 5546,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005546_1",
+      "grade_type": 0,
+      "price": 3770,
+      "name": "Red-spotted Amanita"
+    },
+    {
+      "item_id": 5548,
+      "enhancement_level": 0,
+      "id": 5548,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005548_1",
+      "grade_type": 0,
+      "price": 3770,
+      "name": "Mesima"
+    },
+    {
+      "item_id": 5550,
+      "enhancement_level": 0,
+      "id": 5550,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005550_1",
+      "grade_type": 0,
+      "price": 3770,
+      "name": "Dictyophora"
+    },
+    {
+      "item_id": 5801,
+      "enhancement_level": 0,
+      "id": 5801,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005801",
+      "grade_type": 0,
+      "price": 1620,
+      "name": "Cotton Wool"
+    },
+    {
+      "item_id": 5802,
+      "enhancement_level": 0,
+      "id": 5802,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005802",
+      "grade_type": 0,
+      "price": 605,
+      "name": "Flax"
+    },
+    {
+      "item_id": 5803,
+      "enhancement_level": 0,
+      "id": 5803,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005803",
+      "grade_type": 0,
+      "price": 2110,
+      "name": "Silkworm Cocoon"
+    },
+    {
+      "item_id": 5804,
+      "enhancement_level": 0,
+      "id": 5804,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005804",
+      "grade_type": 0,
+      "price": 635,
+      "name": "Fleece"
+    },
+    {
+      "item_id": 5851,
+      "enhancement_level": 0,
+      "id": 5851,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005851",
+      "grade_type": 0,
+      "price": 7250,
+      "name": "Cotton Yarn"
+    },
+    {
+      "item_id": 5852,
+      "enhancement_level": 0,
+      "id": 5852,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005852",
+      "grade_type": 0,
+      "price": 2430,
+      "name": "Flax Thread"
+    },
+    {
+      "item_id": 5853,
+      "enhancement_level": 0,
+      "id": 5853,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005853",
+      "grade_type": 0,
+      "price": 13200,
+      "name": "Silk Thread"
+    },
+    {
+      "item_id": 5854,
+      "enhancement_level": 0,
+      "id": 5854,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005854",
+      "grade_type": 0,
+      "price": 4500,
+      "name": "Knitting Yarn"
+    },
+    {
+      "item_id": 5960,
+      "enhancement_level": 0,
+      "id": 5960,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00005960",
+      "grade_type": 0,
+      "price": 244000,
+      "name": "Trace of Nature"
+    },
+    {
+      "item_id": 6501,
+      "enhancement_level": 0,
+      "id": 6501,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00006501",
+      "grade_type": 0,
+      "price": 8000,
+      "name": "Coral Piece"
+    },
+    {
+      "item_id": 6504,
+      "enhancement_level": 0,
+      "id": 6504,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00006504",
+      "grade_type": 0,
+      "price": 122000,
+      "name": "Green Coral"
+    },
+    {
+      "item_id": 6505,
+      "enhancement_level": 0,
+      "id": 6505,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00006505",
+      "grade_type": 0,
+      "price": 167000,
+      "name": "Golden Coral"
+    },
+    {
+      "item_id": 6506,
+      "enhancement_level": 0,
+      "id": 6506,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00006506",
+      "grade_type": 0,
+      "price": 138000,
+      "name": "White Coral"
+    },
+    {
+      "item_id": 6656,
+      "enhancement_level": 0,
+      "id": 6656,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00006656",
+      "grade_type": 0,
+      "price": 5300,
+      "name": "Purified Water"
+    },
+    {
+      "item_id": 6657,
+      "enhancement_level": 0,
+      "id": 6657,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00006657",
+      "grade_type": 0,
+      "price": 2330,
+      "name": "Bag of Muddy Water"
+    },
+    {
+      "item_id": 7001,
+      "enhancement_level": 0,
+      "id": 7001,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007001",
+      "grade_type": 0,
+      "price": 1980,
+      "name": "Wheat"
+    },
+    {
+      "item_id": 7002,
+      "enhancement_level": 0,
+      "id": 7002,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007002",
+      "grade_type": 0,
+      "price": 1930,
+      "name": "Barley"
+    },
+    {
+      "item_id": 7003,
+      "enhancement_level": 0,
+      "id": 7003,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007003",
+      "grade_type": 0,
+      "price": 1570,
+      "name": "Potato"
+    },
+    {
+      "item_id": 7004,
+      "enhancement_level": 0,
+      "id": 7004,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007004",
+      "grade_type": 0,
+      "price": 1460,
+      "name": "Sweet Potato"
+    },
+    {
+      "item_id": 7005,
+      "enhancement_level": 0,
+      "id": 7005,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007005",
+      "grade_type": 0,
+      "price": 2370,
+      "name": "Corn"
+    },
+    {
+      "item_id": 7009,
+      "enhancement_level": 0,
+      "id": 7009,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007004",
+      "grade_type": 1,
+      "price": 4210,
+      "name": "High-quality Sweet Potato"
+    },
+    {
+      "item_id": 7014,
+      "enhancement_level": 0,
+      "id": 7014,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007004",
+      "grade_type": 2,
+      "price": 23800,
+      "name": "Special Sweet Potato"
+    },
+    {
+      "item_id": 7016,
+      "enhancement_level": 0,
+      "id": 7016,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007016",
+      "grade_type": 0,
+      "price": 1200,
+      "name": "Date Palm"
+    },
+    {
+      "item_id": 7017,
+      "enhancement_level": 0,
+      "id": 7017,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007017",
+      "grade_type": 0,
+      "price": 378,
+      "name": "Pistachio"
+    },
+    {
+      "item_id": 7018,
+      "enhancement_level": 0,
+      "id": 7018,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007018",
+      "grade_type": 0,
+      "price": 2090,
+      "name": "Fig"
+    },
+    {
+      "item_id": 7019,
+      "enhancement_level": 0,
+      "id": 7019,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007019",
+      "grade_type": 0,
+      "price": 1020,
+      "name": "Star Anise"
+    },
+    {
+      "item_id": 7020,
+      "enhancement_level": 0,
+      "id": 7020,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007020",
+      "grade_type": 0,
+      "price": 2190,
+      "name": "Nutmeg"
+    },
+    {
+      "item_id": 7021,
+      "enhancement_level": 0,
+      "id": 7021,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007021",
+      "grade_type": 0,
+      "price": 1760,
+      "name": "Freekeh"
+    },
+    {
+      "item_id": 7022,
+      "enhancement_level": 0,
+      "id": 7022,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007022",
+      "grade_type": 0,
+      "price": 398,
+      "name": "Teff"
+    },
+    {
+      "item_id": 7026,
+      "enhancement_level": 0,
+      "id": 7026,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007026",
+      "grade_type": 0,
+      "price": 2800,
+      "name": "Coconut"
+    },
+    {
+      "item_id": 7304,
+      "enhancement_level": 0,
+      "id": 7304,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007304",
+      "grade_type": 0,
+      "price": 545,
+      "name": "Strawberry"
+    },
+    {
+      "item_id": 7306,
+      "enhancement_level": 0,
+      "id": 7306,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007306",
+      "grade_type": 0,
+      "price": 930,
+      "name": "Pumpkin"
+    },
+    {
+      "item_id": 7307,
+      "enhancement_level": 0,
+      "id": 7307,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007307",
+      "grade_type": 0,
+      "price": 463,
+      "name": "Grape"
+    },
+    {
+      "item_id": 7309,
+      "enhancement_level": 0,
+      "id": 7309,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007309",
+      "grade_type": 0,
+      "price": 705,
+      "name": "Olive"
+    },
+    {
+      "item_id": 7312,
+      "enhancement_level": 0,
+      "id": 7312,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007312",
+      "grade_type": 0,
+      "price": 660,
+      "name": "Paprika"
+    },
+    {
+      "item_id": 7321,
+      "enhancement_level": 0,
+      "id": 7321,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007304",
+      "grade_type": 1,
+      "price": 6800,
+      "name": "High-quality Strawberry"
+    },
+    {
+      "item_id": 7347,
+      "enhancement_level": 0,
+      "id": 7347,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007347",
+      "grade_type": 0,
+      "price": 2150,
+      "name": "Aloe"
+    },
+    {
+      "item_id": 7348,
+      "enhancement_level": 0,
+      "id": 7348,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007348",
+      "grade_type": 0,
+      "price": 4520,
+      "name": "Cinnamon"
+    },
+    {
+      "item_id": 7360,
+      "enhancement_level": 0,
+      "id": 7360,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007360",
+      "grade_type": 0,
+      "price": 3170,
+      "name": "Citron"
+    },
+    {
+      "item_id": 7702,
+      "enhancement_level": 0,
+      "id": 7702,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007702",
+      "grade_type": 0,
+      "price": 1890,
+      "name": "Cooking Honey"
+    },
+    {
+      "item_id": 7921,
+      "enhancement_level": 0,
+      "id": 7921,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00007916",
+      "grade_type": 0,
+      "price": 4810,
+      "name": "Chicken Meat"
+    },
+    {
+      "item_id": 8502,
+      "enhancement_level": 0,
+      "id": 8502,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008502",
+      "grade_type": 0,
+      "price": 30700,
+      "name": "Dried Tuna"
+    },
+    {
+      "item_id": 8507,
+      "enhancement_level": 0,
+      "id": 8507,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008507",
+      "grade_type": 0,
+      "price": 54000,
+      "name": "Dried Porgy"
+    },
+    {
+      "item_id": 8508,
+      "enhancement_level": 0,
+      "id": 8508,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008508",
+      "grade_type": 0,
+      "price": 18700,
+      "name": "Dried Swellfish"
+    },
+    {
+      "item_id": 8509,
+      "enhancement_level": 0,
+      "id": 8509,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008509",
+      "grade_type": 0,
+      "price": 2540,
+      "name": "Dried Saurel"
+    },
+    {
+      "item_id": 8510,
+      "enhancement_level": 0,
+      "id": 8510,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008510",
+      "grade_type": 0,
+      "price": 5800,
+      "name": "Dried Rockfish"
+    },
+    {
+      "item_id": 8512,
+      "enhancement_level": 0,
+      "id": 8512,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008512",
+      "grade_type": 0,
+      "price": 12400,
+      "name": "Dried Octopus"
+    },
+    {
+      "item_id": 8525,
+      "enhancement_level": 0,
+      "id": 8525,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008525",
+      "grade_type": 0,
+      "price": 35400,
+      "name": "Dried Sea Bass"
+    },
+    {
+      "item_id": 8526,
+      "enhancement_level": 0,
+      "id": 8526,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008526",
+      "grade_type": 0,
+      "price": 20500,
+      "name": "Dried Angler"
+    },
+    {
+      "item_id": 8527,
+      "enhancement_level": 0,
+      "id": 8527,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008527",
+      "grade_type": 0,
+      "price": 19100,
+      "name": "Dried Swordfish"
+    },
+    {
+      "item_id": 8529,
+      "enhancement_level": 0,
+      "id": 8529,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008529",
+      "grade_type": 0,
+      "price": 6050,
+      "name": "Dried Flying Fish"
+    },
+    {
+      "item_id": 8530,
+      "enhancement_level": 0,
+      "id": 8530,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008530",
+      "grade_type": 0,
+      "price": 7050,
+      "name": "Dried Skipjack"
+    },
+    {
+      "item_id": 8531,
+      "enhancement_level": 0,
+      "id": 8531,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008531",
+      "grade_type": 0,
+      "price": 6750,
+      "name": "Dried Ray"
+    },
+    {
+      "item_id": 8534,
+      "enhancement_level": 0,
+      "id": 8534,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008534",
+      "grade_type": 0,
+      "price": 3160,
+      "name": "Dried Filefish"
+    },
+    {
+      "item_id": 8535,
+      "enhancement_level": 0,
+      "id": 8535,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008535",
+      "grade_type": 0,
+      "price": 2780,
+      "name": "Dried Scorpion Fish"
+    },
+    {
+      "item_id": 8536,
+      "enhancement_level": 0,
+      "id": 8536,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008536",
+      "grade_type": 0,
+      "price": 3160,
+      "name": "Dried Mullet"
+    },
+    {
+      "item_id": 8556,
+      "enhancement_level": 0,
+      "id": 8556,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008556",
+      "grade_type": 0,
+      "price": 18700,
+      "name": "Dried Cero"
+    },
+    {
+      "item_id": 8560,
+      "enhancement_level": 0,
+      "id": 8560,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008560",
+      "grade_type": 0,
+      "price": 3270,
+      "name": "Dried Flatfish"
+    },
+    {
+      "item_id": 8561,
+      "enhancement_level": 0,
+      "id": 8561,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008561",
+      "grade_type": 0,
+      "price": 40200,
+      "name": "Dried Grunt"
+    },
+    {
+      "item_id": 8564,
+      "enhancement_level": 0,
+      "id": 8564,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008564",
+      "grade_type": 0,
+      "price": 2690,
+      "name": "Dried Round Herring"
+    },
+    {
+      "item_id": 8566,
+      "enhancement_level": 0,
+      "id": 8566,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008566",
+      "grade_type": 0,
+      "price": 2540,
+      "name": "Dried Whiting"
+    },
+    {
+      "item_id": 8567,
+      "enhancement_level": 0,
+      "id": 8567,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008567",
+      "grade_type": 0,
+      "price": 3440,
+      "name": "Dried Dolphinfish"
+    },
+    {
+      "item_id": 8568,
+      "enhancement_level": 0,
+      "id": 8568,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008568",
+      "grade_type": 0,
+      "price": 3050,
+      "name": "Dried Striped Catfish"
+    },
+    {
+      "item_id": 8570,
+      "enhancement_level": 0,
+      "id": 8570,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008570",
+      "grade_type": 0,
+      "price": 21100,
+      "name": "Dried Golden-thread"
+    },
+    {
+      "item_id": 8571,
+      "enhancement_level": 0,
+      "id": 8571,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008571",
+      "grade_type": 0,
+      "price": 79500,
+      "name": "Dried Nibbler"
+    },
+    {
+      "item_id": 8572,
+      "enhancement_level": 0,
+      "id": 8572,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008572",
+      "grade_type": 0,
+      "price": 17900,
+      "name": "Dried Siganid"
+    },
+    {
+      "item_id": 8573,
+      "enhancement_level": 0,
+      "id": 8573,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008573",
+      "grade_type": 0,
+      "price": 6100,
+      "name": "Dried Bluefish"
+    },
+    {
+      "item_id": 8574,
+      "enhancement_level": 0,
+      "id": 8574,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008574",
+      "grade_type": 0,
+      "price": 2300,
+      "name": "Dried Surfperch"
+    },
+    {
+      "item_id": 8577,
+      "enhancement_level": 0,
+      "id": 8577,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008577",
+      "grade_type": 0,
+      "price": 18500,
+      "name": "Dried Maomao"
+    },
+    {
+      "item_id": 8578,
+      "enhancement_level": 0,
+      "id": 8578,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008578",
+      "grade_type": 0,
+      "price": 5650,
+      "name": "Dried Pintado"
+    },
+    {
+      "item_id": 8579,
+      "enhancement_level": 0,
+      "id": 8579,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008579",
+      "grade_type": 0,
+      "price": 3270,
+      "name": "Dried Gurnard"
+    },
+    {
+      "item_id": 8581,
+      "enhancement_level": 0,
+      "id": 8581,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008581",
+      "grade_type": 0,
+      "price": 20000,
+      "name": "Dried John Dory"
+    },
+    {
+      "item_id": 8584,
+      "enhancement_level": 0,
+      "id": 8584,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008584",
+      "grade_type": 0,
+      "price": 16700,
+      "name": "Dried Grouper"
+    },
+    {
+      "item_id": 8585,
+      "enhancement_level": 0,
+      "id": 8585,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008585",
+      "grade_type": 0,
+      "price": 6900,
+      "name": "Dried Bigeye"
+    },
+    {
+      "item_id": 8598,
+      "enhancement_level": 0,
+      "id": 8598,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008598",
+      "grade_type": 0,
+      "price": 18300,
+      "name": "Dried Tapertail Anchovy"
+    },
+    {
+      "item_id": 8602,
+      "enhancement_level": 0,
+      "id": 8602,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008602",
+      "grade_type": 0,
+      "price": 4700,
+      "name": "Dried Clownfish"
+    },
+    {
+      "item_id": 8603,
+      "enhancement_level": 0,
+      "id": 8603,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008603",
+      "grade_type": 0,
+      "price": 6850,
+      "name": "Dried Blue Tang"
+    },
+    {
+      "item_id": 8604,
+      "enhancement_level": 0,
+      "id": 8604,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008604",
+      "grade_type": 0,
+      "price": 20000,
+      "name": "Dried Checkerboard Wrasse"
+    },
+    {
+      "item_id": 8662,
+      "enhancement_level": 0,
+      "id": 8662,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008662",
+      "grade_type": 0,
+      "price": 14700,
+      "name": "Dried Yellowfin Sole"
+    },
+    {
+      "item_id": 8663,
+      "enhancement_level": 0,
+      "id": 8663,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008663",
+      "grade_type": 0,
+      "price": 15500,
+      "name": "Dried Stippled Gunnel"
+    },
+    {
+      "item_id": 8665,
+      "enhancement_level": 0,
+      "id": 8665,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00008665",
+      "grade_type": 0,
+      "price": 17600,
+      "name": "Dried Redbreasted Wrasse"
+    },
+    {
+      "item_id": 9064,
+      "enhancement_level": 0,
+      "id": 9064,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00009064",
+      "grade_type": 0,
+      "price": 4810,
+      "name": "Egg"
+    },
+    {
+      "item_id": 9069,
+      "enhancement_level": 0,
+      "id": 9069,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00009069",
+      "grade_type": 0,
+      "price": 52000,
+      "name": "Translucent Ice"
+    },
+    {
+      "item_id": 65266,
+      "enhancement_level": 0,
+      "id": 65266,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/04_DropItem/00065268",
+      "grade_type": 3,
+      "price": 198000000,
+      "name": "Flame of Hongik"
+    },
+    {
+      "item_id": 820101,
+      "enhancement_level": 0,
+      "id": 820101,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820101",
+      "grade_type": 0,
+      "price": 475,
+      "name": "Scarlet Rosebay"
+    },
+    {
+      "item_id": 820102,
+      "enhancement_level": 0,
+      "id": 820102,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820102",
+      "grade_type": 0,
+      "price": 406,
+      "name": "Pink Rosebay"
+    },
+    {
+      "item_id": 820107,
+      "enhancement_level": 0,
+      "id": 820107,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820107",
+      "grade_type": 0,
+      "price": 650,
+      "name": "Tigerflower"
+    },
+    {
+      "item_id": 820108,
+      "enhancement_level": 0,
+      "id": 820108,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820108",
+      "grade_type": 0,
+      "price": 295,
+      "name": "Wild Berry"
+    },
+    {
+      "item_id": 820110,
+      "enhancement_level": 0,
+      "id": 820110,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820110",
+      "grade_type": 0,
+      "price": 189,
+      "name": "Reed"
+    },
+    {
+      "item_id": 820113,
+      "enhancement_level": 0,
+      "id": 820113,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820113",
+      "grade_type": 0,
+      "price": 486,
+      "name": "Persimmon"
+    },
+    {
+      "item_id": 820117,
+      "enhancement_level": 0,
+      "id": 820117,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820117",
+      "grade_type": 0,
+      "price": 1400,
+      "name": "Rice"
+    },
+    {
+      "item_id": 820120,
+      "enhancement_level": 0,
+      "id": 820120,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820120",
+      "grade_type": 0,
+      "price": 2590,
+      "name": "Napa Cabbage"
+    },
+    {
+      "item_id": 820123,
+      "enhancement_level": 0,
+      "id": 820123,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820123",
+      "grade_type": 0,
+      "price": 3680,
+      "name": "Radish"
+    },
+    {
+      "item_id": 820136,
+      "enhancement_level": 0,
+      "id": 820136,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820136",
+      "grade_type": 0,
+      "price": 590,
+      "name": "Viola"
+    },
+    {
+      "item_id": 820138,
+      "enhancement_level": 0,
+      "id": 820138,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00820138",
+      "grade_type": 0,
+      "price": 1350,
+      "name": "Mysterious Powder"
+    },
+    {
+      "item_id": 821306,
+      "enhancement_level": 0,
+      "id": 821306,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00821306",
+      "grade_type": 0,
+      "price": 4700,
+      "name": "Dried Lavascale Stargazer"
+    },
+    {
+      "item_id": 821307,
+      "enhancement_level": 0,
+      "id": 821307,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00821307",
+      "grade_type": 0,
+      "price": 5300,
+      "name": "Dried Devil Stinger"
+    },
+    {
+      "item_id": 821311,
+      "enhancement_level": 0,
+      "id": 821311,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00821311",
+      "grade_type": 0,
+      "price": 34100,
+      "name": "Dried Ribbon Eel"
+    },
+    {
+      "item_id": 821313,
+      "enhancement_level": 0,
+      "id": 821313,
+      "sub_id": 0,
+      "icon_image": "New_Icon/03_ETC/07_ProductMaterial/00821313",
+      "grade_type": 0,
+      "price": 160000,
+      "name": "Dried Goldenstriped Soapfish"
+    }
+  ],
+  "status": {}
+}
