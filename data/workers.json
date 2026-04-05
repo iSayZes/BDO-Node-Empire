@@ -6,7 +6,14 @@
     "type": "Giant",
     "rank": 1,
     "base": { "wspd": 30000000, "mspd": 200, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 640000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 640000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 7551,
@@ -14,7 +21,14 @@
     "type": "Giant",
     "rank": 2,
     "base": { "wspd": 45000000, "mspd": 250, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 960000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 960000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 7561,
@@ -22,7 +36,14 @@
     "type": "Giant",
     "rank": 3,
     "base": { "wspd": 60000000, "mspd": 250, "luck": 55000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 960000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 960000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 7571,
@@ -30,7 +51,14 @@
     "type": "Giant",
     "rank": 4,
     "base": { "wspd": 75000000, "mspd": 250, "luck": 60000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 7504,
@@ -38,7 +66,14 @@
     "type": "Goblin",
     "rank": 1,
     "base": { "wspd": 60000000, "mspd": 350, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1280000, "mspdLo": 10000, "mspdHi": 22857, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1280000,
+      "mspdLo": 10000,
+      "mspdHi": 22857,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 7552,
@@ -46,7 +81,14 @@
     "type": "Goblin",
     "rank": 2,
     "base": { "wspd": 65000000, "mspd": 400, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1390000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1390000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 7562,
@@ -54,7 +96,14 @@
     "type": "Goblin",
     "rank": 3,
     "base": { "wspd": 90000000, "mspd": 450, "luck": 55000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1300000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1300000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 7572,
@@ -62,7 +111,14 @@
     "type": "Goblin",
     "rank": 4,
     "base": { "wspd": 115000000, "mspd": 500, "luck": 60000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1800000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1800000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 7506,
@@ -70,7 +126,14 @@
     "type": "Human",
     "rank": 1,
     "base": { "wspd": 40000000, "mspd": 250, "luck": 130000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 850000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 850000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 7553,
@@ -78,7 +141,14 @@
     "type": "Human",
     "rank": 2,
     "base": { "wspd": 50000000, "mspd": 300, "luck": 180000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1070000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1070000,
+      "mspdLo": 10000,
+      "mspdHi": 23333,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 7563,
@@ -86,7 +156,14 @@
     "type": "Human",
     "rank": 3,
     "base": { "wspd": 70000000, "mspd": 300, "luck": 190000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1100000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1100000,
+      "mspdLo": 10000,
+      "mspdHi": 23333,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 7573,
@@ -94,129 +171,196 @@
     "type": "Human",
     "rank": 4,
     "base": { "wspd": 85000000, "mspd": 300, "luck": 200000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1200000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1200000,
+      "mspdLo": 10000,
+      "mspdHi": 23333,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "comment": "Kamasylvia pool — Old Wisdom Tree, Grana, Duvencrune",
     "id": 8001,
     "name": "Papu Worker",
-    "type": "Papu",
+    "type": "Goblin",
     "rank": 1,
     "base": { "wspd": 70000000, "mspd": 350, "luck": 40000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1070000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1070000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 8013,
     "name": "Papu Worker",
-    "type": "Papu",
+    "type": "Goblin",
     "rank": 2,
     "base": { "wspd": 75000000, "mspd": 400, "luck": 40000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1300000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1300000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8002,
     "name": "Papu Worker",
-    "type": "Papu",
+    "type": "Goblin",
     "rank": 3,
     "base": { "wspd": 100000000, "mspd": 450, "luck": 45000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1390000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1390000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8003,
     "name": "Papu Worker",
-    "type": "Papu",
+    "type": "Goblin",
     "rank": 4,
     "base": { "wspd": 125000000, "mspd": 500, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1800000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1800000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8004,
     "name": "Fadus Worker",
-    "type": "Fadus",
+    "type": "Giant",
     "rank": 1,
     "base": { "wspd": 40000000, "mspd": 250, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 540000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 540000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 8014,
     "name": "Fadus Worker",
-    "type": "Fadus",
+    "type": "Giant",
     "rank": 2,
     "base": { "wspd": 55000000, "mspd": 300, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 960000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 960000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8005,
     "name": "Fadus Worker",
-    "type": "Fadus",
+    "type": "Giant",
     "rank": 3,
     "base": { "wspd": 70000000, "mspd": 300, "luck": 55000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 960000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 960000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8006,
     "name": "Fadus Worker",
-    "type": "Fadus",
+    "type": "Giant",
     "rank": 4,
     "base": { "wspd": 85000000, "mspd": 300, "luck": 60000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
-  },
-  {
-    "id": 8007,
-    "name": "Demibeast Worker",
-    "type": "Demibeast",
-    "rank": 1,
-    "base": { "wspd": 50000000, "mspd": 300, "luck": 180000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1070000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
-  },
-  {
-    "id": 8008,
-    "name": "Demibeast Worker",
-    "type": "Demibeast",
-    "rank": 3,
-    "base": { "wspd": 70000000, "mspd": 300, "luck": 190000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1100000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
-  },
-  {
-    "id": 8009,
-    "name": "Demibeast Worker",
-    "type": "Demibeast",
-    "rank": 4,
-    "base": { "wspd": 85000000, "mspd": 300, "luck": 200000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1200000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "comment": "O'draxxia pool",
     "id": 8020,
     "name": "Dwarf Worker",
-    "type": "Dwarf",
+    "type": "Goblin",
     "rank": 1,
     "base": { "wspd": 70000000, "mspd": 350, "luck": 40000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1070000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1070000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 8021,
     "name": "Dwarf Worker",
-    "type": "Dwarf",
+    "type": "Goblin",
     "rank": 2,
     "base": { "wspd": 75000000, "mspd": 400, "luck": 40000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1300000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1300000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8022,
     "name": "Dwarf Worker",
-    "type": "Dwarf",
+    "type": "Goblin",
     "rank": 3,
     "base": { "wspd": 100000000, "mspd": 450, "luck": 45000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1390000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1390000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8023,
     "name": "Dwarf Worker",
-    "type": "Dwarf",
+    "type": "Goblin",
     "rank": 4,
     "base": { "wspd": 125000000, "mspd": 500, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1800000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1800000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8024,
@@ -224,7 +368,14 @@
     "type": "Giant",
     "rank": 1,
     "base": { "wspd": 40000000, "mspd": 250, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 540000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 540000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 8025,
@@ -232,7 +383,14 @@
     "type": "Giant",
     "rank": 2,
     "base": { "wspd": 55000000, "mspd": 300, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 960000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 960000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8026,
@@ -240,7 +398,14 @@
     "type": "Giant",
     "rank": 3,
     "base": { "wspd": 70000000, "mspd": 300, "luck": 55000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 960000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 960000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8027,
@@ -248,7 +413,14 @@
     "type": "Giant",
     "rank": 4,
     "base": { "wspd": 85000000, "mspd": 300, "luck": 60000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8028,
@@ -256,7 +428,14 @@
     "type": "Human",
     "rank": 1,
     "base": { "wspd": 40000000, "mspd": 250, "luck": 130000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 850000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 850000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 8029,
@@ -264,7 +443,14 @@
     "type": "Human",
     "rank": 2,
     "base": { "wspd": 50000000, "mspd": 300, "luck": 180000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1070000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1070000,
+      "mspdLo": 10000,
+      "mspdHi": 23333,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8030,
@@ -272,7 +458,14 @@
     "type": "Human",
     "rank": 3,
     "base": { "wspd": 70000000, "mspd": 300, "luck": 190000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1100000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1100000,
+      "mspdLo": 10000,
+      "mspdHi": 23333,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8031,
@@ -280,7 +473,14 @@
     "type": "Human",
     "rank": 4,
     "base": { "wspd": 85000000, "mspd": 300, "luck": 200000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1200000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1200000,
+      "mspdLo": 10000,
+      "mspdHi": 23333,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "comment": "Eilton pool",
@@ -289,7 +489,14 @@
     "type": "Goblin",
     "rank": 1,
     "base": { "wspd": 60000000, "mspd": 350, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1280000, "mspdLo": 10000, "mspdHi": 22857, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1280000,
+      "mspdLo": 10000,
+      "mspdHi": 22857,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 8033,
@@ -297,7 +504,14 @@
     "type": "Goblin",
     "rank": 2,
     "base": { "wspd": 65000000, "mspd": 400, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1390000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1390000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8034,
@@ -305,7 +519,14 @@
     "type": "Goblin",
     "rank": 3,
     "base": { "wspd": 90000000, "mspd": 450, "luck": 55000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1300000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1300000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8035,
@@ -313,7 +534,14 @@
     "type": "Goblin",
     "rank": 4,
     "base": { "wspd": 115000000, "mspd": 500, "luck": 60000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1800000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1800000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8036,
@@ -321,7 +549,14 @@
     "type": "Giant",
     "rank": 1,
     "base": { "wspd": 40000000, "mspd": 200, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 540000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 540000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 8037,
@@ -329,7 +564,14 @@
     "type": "Giant",
     "rank": 2,
     "base": { "wspd": 55000000, "mspd": 250, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 960000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 960000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8038,
@@ -337,7 +579,14 @@
     "type": "Giant",
     "rank": 3,
     "base": { "wspd": 70000000, "mspd": 250, "luck": 55000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 960000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 960000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8039,
@@ -345,7 +594,14 @@
     "type": "Giant",
     "rank": 4,
     "base": { "wspd": 85000000, "mspd": 250, "luck": 60000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8040,
@@ -353,7 +609,14 @@
     "type": "Human",
     "rank": 1,
     "base": { "wspd": 40000000, "mspd": 250, "luck": 130000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 850000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 850000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 8041,
@@ -361,7 +624,14 @@
     "type": "Human",
     "rank": 2,
     "base": { "wspd": 50000000, "mspd": 300, "luck": 180000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1070000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1070000,
+      "mspdLo": 10000,
+      "mspdHi": 23333,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8042,
@@ -369,7 +639,14 @@
     "type": "Human",
     "rank": 3,
     "base": { "wspd": 70000000, "mspd": 300, "luck": 190000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1100000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1100000,
+      "mspdLo": 10000,
+      "mspdHi": 23333,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8043,
@@ -377,103 +654,194 @@
     "type": "Human",
     "rank": 4,
     "base": { "wspd": 85000000, "mspd": 300, "luck": 200000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1200000, "mspdLo": 10000, "mspdHi": 23333, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1200000,
+      "mspdLo": 10000,
+      "mspdHi": 23333,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "comment": "Korean region pool (Land of the Morning Light) — Dalbeol, Yukjo, etc.",
     "id": 8047,
     "name": "Dokkebi Worker",
-    "type": "Dokkebi",
+    "type": "Goblin",
     "rank": 1,
     "base": { "wspd": 60000000, "mspd": 350, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8048,
     "name": "Dokkebi Worker",
-    "type": "Dokkebi",
+    "type": "Goblin",
     "rank": 2,
     "base": { "wspd": 65000000, "mspd": 400, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1400000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1400000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8049,
     "name": "Dokkebi Worker",
-    "type": "Dokkebi",
+    "type": "Goblin",
     "rank": 3,
     "base": { "wspd": 90000000, "mspd": 450, "luck": 55000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1300000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1300000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8050,
     "name": "Dokkebi Worker",
-    "type": "Dokkebi",
+    "type": "Goblin",
     "rank": 4,
     "base": { "wspd": 115000000, "mspd": 500, "luck": 60000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1800000, "mspdLo": 10000, "mspdHi": 25000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1800000,
+      "mspdLo": 10000,
+      "mspdHi": 25000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8051,
     "name": "Dolswe Worker",
-    "type": "Dolswe",
+    "type": "Human",
     "rank": 1,
     "base": { "wspd": 40000000, "mspd": 250, "luck": 130000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 850000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 1000, "luckHi": 2500 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 850000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 1000,
+      "luckHi": 2500
+    }
   },
   {
     "id": 8052,
     "name": "Dolswe Worker",
-    "type": "Dolswe",
+    "type": "Human",
     "rank": 2,
     "base": { "wspd": 50000000, "mspd": 300, "luck": 180000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8053,
     "name": "Dolswe Worker",
-    "type": "Dolswe",
+    "type": "Human",
     "rank": 3,
     "base": { "wspd": 70000000, "mspd": 300, "luck": 190000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8054,
     "name": "Dolswe Worker",
-    "type": "Dolswe",
+    "type": "Human",
     "rank": 4,
     "base": { "wspd": 85000000, "mspd": 300, "luck": 200000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1200000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1200000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8055,
     "name": "Shellfolk Worker",
-    "type": "Shellfolk",
+    "type": "Giant",
     "rank": 1,
     "base": { "wspd": 40000000, "mspd": 200, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8056,
     "name": "Shellfolk Worker",
-    "type": "Shellfolk",
+    "type": "Giant",
     "rank": 2,
     "base": { "wspd": 55000000, "mspd": 250, "luck": 50000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8057,
     "name": "Shellfolk Worker",
-    "type": "Shellfolk",
+    "type": "Giant",
     "rank": 3,
     "base": { "wspd": 70000000, "mspd": 250, "luck": 55000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   },
   {
     "id": 8058,
     "name": "Shellfolk Worker",
-    "type": "Shellfolk",
+    "type": "Giant",
     "rank": 4,
     "base": { "wspd": 85000000, "mspd": 250, "luck": 60000 },
-    "perLevel": { "wspdLo": 100000, "wspdHi": 1000000, "mspdLo": 10000, "mspdHi": 24000, "luckLo": 500, "luckHi": 3000 }
+    "perLevel": {
+      "wspdLo": 100000,
+      "wspdHi": 1000000,
+      "mspdLo": 10000,
+      "mspdHi": 24000,
+      "luckLo": 500,
+      "luckHi": 3000
+    }
   }
 ]
