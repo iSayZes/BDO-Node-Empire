@@ -49,5 +49,6 @@
   "1919": { "tier": 5, "price": 2500, "make_weap": 3, "name": "Adv. Weapon Production", "description": "Extra Work (+3) Done for Weapons" },
   "1920": { "tier": 5, "price": 2500, "make_armor": 3, "name": "Adv. Armor Production", "description": "Extra Work (+3) Done for Armor" },
   "1921": { "tier": 5, "price": 2500, "make_lifec": 3, "name": "Siege Weapon Production", "description": "Extra Work (+1) Done for Siege Weapons" },
-  "1923": { "tier": 5, "price": 2500, "make_siege": 3, "name": "Adv. Siege Weapon Production", "description": "Extra Work (+3) Done for Siege Weapons" }
+  "1923": { "tier": 5, "price": 2500, "make_siege": 3, "name": "Adv. Siege Weapon Production", "description": "Extra Work (+3) Done for Siege Weapons" },
+  "2019": { "tier": 0, "price": 0, "name": "Select Storage", "description": "Choose which bank the worker's items are sent to." }
 }
